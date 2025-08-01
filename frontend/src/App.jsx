@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import LettersList from './pages/LettersList';
 import AboutUs from './pages/AboutUs';
 import Orders from './pages/Orders';
+import LetterDetails from './pages/LetterDetails';
 
 const App = () => {
 
@@ -15,6 +16,7 @@ const App = () => {
                 <Route path="/letters" element={<LettersList />} />
                 <Route path="/aboutus" element={<AboutUs />} />
                 <Route path="/orders" element={<Orders />} />
+                <Route path="/letters/:id" element={<LetterDetails />} />
             </Routes>
         </div>
     );
