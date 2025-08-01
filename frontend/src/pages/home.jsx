@@ -1,8 +1,10 @@
+import UsAnimated from '../assets/UsAnimated.jpg';
+
 const home = () => {
   return (
     <div>
-      <h1>Welcome to Acustles</h1>
-      <p>This is the main content of the home page.</p>
+      <h1>Welcome to Acustles!</h1>
+      <img className="d-block mx-auto" src={UsAnimated} alt="Animated" width="100%"/>
     </div>
   );
 }
