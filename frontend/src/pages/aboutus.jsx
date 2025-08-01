@@ -2,7 +2,7 @@ const aboutus = () => {
   return (
     <div>
       <h1>About Us</h1>
-      <p>This is the about us page content.</p>
+      <p>We are a simple and cute couple who wants to be rich and likes cuddles!</p>
     </div>
   );
 }
