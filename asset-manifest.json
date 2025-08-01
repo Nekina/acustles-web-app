@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acustles-web-app/static/css/main.b4e45377.css",
+    "main.js": "/acustles-web-app/static/js/main.1c005ae1.js",
+    "static/media/logo.jpg": "/acustles-web-app/static/media/logo.fbef890faaf6d19f4a0a.jpg",
+    "static/media/UsAnimated.jpg": "/acustles-web-app/static/media/UsAnimated.2a01eeca823cae415d2e.jpg",
+    "index.html": "/acustles-web-app/index.html",
+    "main.b4e45377.css.map": "/acustles-web-app/static/css/main.b4e45377.css.map",
+    "main.1c005ae1.js.map": "/acustles-web-app/static/js/main.1c005ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4e45377.css",
+    "static/js/main.1c005ae1.js"
+  ]
+}
