@@ -5,7 +5,7 @@
 This is an ongoing project dedicated to my girlfriend.  
 UI link: [https://nekina.github.io/acustles-web-app/](https://nekina.github.io/acustles-web-app/)  
 
-**Milestones:**  
+### **Milestones:**  
 Frontend:  
 - [x] Nav bar
 - [x] Home page
